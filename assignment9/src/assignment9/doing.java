@@ -15,7 +15,7 @@ public class doing {
 				new fruit("strawberry",120,50,"red"),
 				new fruit("pomegranate",22,25,"red"),
 				new fruit("orange",60,5,"orange"),
-				new fruit("bananana",112,3,"yellow"),
+				new fruit("banana",112,3,"yellow"),
 				new fruit("grapes",50,7,"green"));
 		
 		// fruits calories less than 100
