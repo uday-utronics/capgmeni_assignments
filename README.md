@@ -1,4 +1,5 @@
 # capgmeni_assignments
+Link to case study repository: https://github.com/uday-utronics/Agriculture-ECommerce \
 first java consists of random practice of OOPS concept for my reference\
 assignmentOne consists assignment 1\
 OOPS CONCEPTS consists assignment 2\
